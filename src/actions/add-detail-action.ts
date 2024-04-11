@@ -3,7 +3,7 @@
 import { revalidatePath } from "next/cache";
 
 import { formValidators } from "@/validators/form-validator";
-import { detailModel } from "../../models/demo-schema";
+import { detailModel } from "@/models/demo-schema"
 
 
 export async function addDetail(data: unknown) {

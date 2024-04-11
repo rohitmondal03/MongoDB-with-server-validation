@@ -1,4 +1,4 @@
-import { detailModel } from "../../models/demo-schema";
+import { detailModel } from "@/models/demo-schema";
 import Form from "@/components/form";
 
 
